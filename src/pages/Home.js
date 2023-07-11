@@ -23,9 +23,11 @@ function Home() {
             <SliderInfo/>
             <Cine/>
             <Restaurantes />
+            <Show_infantiles/>
             <Footer/>
         </div>
     );
+
 }
 
 export default Home;
